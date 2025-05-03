@@ -1,0 +1,10 @@
+body {
+    background: rgb(128, 164, 243);
+}
+h1 {
+    font-style: oblique;
+    color: rgb(98, 43, 226);
+}
+input {
+    border-radius: 4px;          
+}

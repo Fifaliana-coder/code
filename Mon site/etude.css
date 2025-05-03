@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif ;
+    background-color: rgb(115, 149, 241);
+}
+nav a{
+    color: pink;
+    margin-left: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+header{
+    background-color: rgb(36, 85, 177);
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding: 10px 20px;
+}
+p {
+    font-size: 1.2em;
+    margin-bottom: 8px;
+    font-style: italic;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(198, 107, 235);
+    color: white;
+}
+h2 {
+    background: aquamarine;
+}

@@ -1,0 +1,10 @@
+let nombre1= 12;
+let nombre2= 10;
+let somme= nombre1+nombre2;
+let différence= nombre1-nombre2;
+let produit= nombre1*nombre2;
+let quotient= nombre1/nombre2;
+console.log("La somme de "+nombre1 + " et "+nombre2 + " est " + somme);
+console.log("La différence de "+nombre1 + " et "+nombre2 + " est " + différence);
+console.log("Le produit de "+nombre1 + " et "+nombre2 + " est " + produit);
+console.log("Le quotient de "+nombre1 + " et "+nombre2 + " est " + quotient);
